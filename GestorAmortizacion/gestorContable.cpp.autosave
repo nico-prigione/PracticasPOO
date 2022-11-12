@@ -1,0 +1,8 @@
+#include "gestorContable.h"
+
+GestorContable::GestorContable(){
+    
+}
+void GestorContable::imprimir(Bien * unBien){
+    cout<<*unBien<<" amortizacion: "<<unBien->amo
+}
